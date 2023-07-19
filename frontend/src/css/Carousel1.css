@@ -1,0 +1,50 @@
+.carro{
+    background-color: ffff;
+}
+
+
+
+.Laltu{
+    
+    height: 450px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-top: 2px;
+    
+    margin-left: 50px;
+    margin-right: 30px;
+   padding-left: 160px;
+    width: 1400px;
+    
+}
+.Content{
+    
+    color: rgb(204, 223, 239);
+    background-image: url(../bgimg/fresho_days.jpg);
+    margin-top: 10px;
+    height:10in;
+}
+    
+   
+.Content2{
+    
+    color: aliceblue;
+    background-image: url(../bgimg/paneer.jpg);
+    height:10in;
+    margin-top: 10px;
+    background-repeat: no-repeat;
+
+}
+
+.Content3{
+    margin-top: 10px;
+    color: aliceblue;
+    background-image: url(../bgimg/grpo.jpg);
+    height:10in;
+    background-repeat: no-repeat;
+}
+.Content h1{
+    font-family: cursive;
+    font-size: 0.8in;
+    letter-spacing: 2px;
+}

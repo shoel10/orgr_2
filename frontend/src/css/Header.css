@@ -1,0 +1,10 @@
+.color-nav{
+    height: 80px;
+    background-color:rgb(255, 161, 73);
+    box-shadow: rgba(43, 43, 43, 0.24) 0px 3px 8px;
+}
+
+
+.color-nav.titlehead{
+    padding-right: 80px;
+}
